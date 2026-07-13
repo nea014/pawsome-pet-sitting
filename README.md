@@ -6,6 +6,10 @@ Website for Pawsome Pet Sitting, built with plain HTML, CSS, and JavaScript.
 
 https://nea014.github.io/pawsome-pet-sitting/
 
+Also mirrored on Cloudflare Pages (auto-deploys from this repo):
+
+https://pawsome-pet-sitting.pages.dev/
+
 ## Structure
 
 - `index.html` — main page
