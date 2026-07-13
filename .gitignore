@@ -13,3 +13,6 @@ desktop.ini
 .env.*
 *.key
 *.pem
+
+# Wrangler local cache
+.wrangler/
